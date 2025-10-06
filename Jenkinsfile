@@ -9,7 +9,7 @@ pipeline {
     }
 
     environment{
-        registry = 'quandvrobusto/house-price-prediction-api'
+        registry = '20040003/house-price-prediction-ap'
         registryCredential = 'dockerhub'      
     }
 
